@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8733f16a.chunk.css",
+    "main.js": "/portfolio/static/js/main.915175e8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.915175e8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.56d6e37e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.56d6e37e.js.map",
+    "static/css/2.6f3f30c1.chunk.css": "/portfolio/static/css/2.6f3f30c1.chunk.css",
+    "static/js/2.759f6321.chunk.js": "/portfolio/static/js/2.759f6321.chunk.js",
+    "static/js/2.759f6321.chunk.js.map": "/portfolio/static/js/2.759f6321.chunk.js.map",
+    "static/js/3.3824685c.chunk.js": "/portfolio/static/js/3.3824685c.chunk.js",
+    "static/js/3.3824685c.chunk.js.map": "/portfolio/static/js/3.3824685c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.6f3f30c1.chunk.css.map": "/portfolio/static/css/2.6f3f30c1.chunk.css.map",
+    "static/css/main.8733f16a.chunk.css.map": "/portfolio/static/css/main.8733f16a.chunk.css.map",
+    "static/js/2.759f6321.chunk.js.LICENSE.txt": "/portfolio/static/js/2.759f6321.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/portfolio/static/media/home-bg.27f6223e.jpg",
+    "static/media/laravel-logo.ef6c4ba3.png": "/portfolio/static/media/laravel-logo.ef6c4ba3.png",
+    "static/media/php-logo.2ebf84fc.png": "/portfolio/static/media/php-logo.2ebf84fc.png",
+    "static/media/symfony-logo.495fd5b6.png": "/portfolio/static/media/symfony-logo.495fd5b6.png",
+    "static/media/zo.9191f3dc.jpg": "/portfolio/static/media/zo.9191f3dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56d6e37e.js",
+    "static/css/2.6f3f30c1.chunk.css",
+    "static/js/2.759f6321.chunk.js",
+    "static/css/main.8733f16a.chunk.css",
+    "static/js/main.915175e8.chunk.js"
+  ]
+}
