@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8733f16a.chunk.css",
+    "main.css": "/portfolio/static/css/main.039f190a.chunk.css",
     "main.js": "/portfolio/static/js/main.20b58305.chunk.js",
     "main.js.map": "/portfolio/static/js/main.20b58305.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.56d6e37e.js",
@@ -12,7 +12,7 @@
     "static/js/3.3824685c.chunk.js.map": "/portfolio/static/js/3.3824685c.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.6f3f30c1.chunk.css.map": "/portfolio/static/css/2.6f3f30c1.chunk.css.map",
-    "static/css/main.8733f16a.chunk.css.map": "/portfolio/static/css/main.8733f16a.chunk.css.map",
+    "static/css/main.039f190a.chunk.css.map": "/portfolio/static/css/main.039f190a.chunk.css.map",
     "static/js/2.759f6321.chunk.js.LICENSE.txt": "/portfolio/static/js/2.759f6321.chunk.js.LICENSE.txt",
     "static/media/style.css": "/portfolio/static/media/home-bg.27f6223e.jpg",
     "static/media/laravel-logo.ef6c4ba3.png": "/portfolio/static/media/laravel-logo.ef6c4ba3.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.56d6e37e.js",
     "static/css/2.6f3f30c1.chunk.css",
     "static/js/2.759f6321.chunk.js",
-    "static/css/main.8733f16a.chunk.css",
+    "static/css/main.039f190a.chunk.css",
     "static/js/main.20b58305.chunk.js"
   ]
 }
